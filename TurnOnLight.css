@@ -1,0 +1,16 @@
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: lightgray;
+}
+
+.center{
+    position:absolute;
+    height: 100px;
+    width: 100px;
+    left:50%;
+    top:50%;
+    margin-top: -50px;
+    margin-left:-50px;
+}

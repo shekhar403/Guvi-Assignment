@@ -27,6 +27,3 @@ const { read } = require("fs");
 // Anonymous function
 // (function (msg){alert(msg)});
 // ('SO');
-
-let userinput = []
-userinput.pus

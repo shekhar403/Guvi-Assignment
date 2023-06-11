@@ -1,0 +1,37 @@
+.nav-bar {
+    background-color: coral;
+    height: 40px;
+    padding-top: 10px;
+    position: sticky;
+    top: 50px;
+}
+
+.nav_title {
+    float: left;
+    margin-left: 10px;
+    color: black;
+    margin-top: 0;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: coral;
+    border: 10px solid red;
+    margin: 100px;
+}
+
+.flex-container>div {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    background-color: beige;
+}
+
+body {
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}

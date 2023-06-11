@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: 170px;
+}
+
+.movie-group {
+    display: inline-block; 
+    margin-right: 4px;
+    vertical-align: top;
+    width: 170px;
+}
+
+.movie-name {
+    color: cyan;
+    margin-bottom: 0;
+}
+
+.movie-rating {
+   color: gold;
+}

@@ -1,0 +1,14 @@
+.outerview {
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    border: 10px solid blue;
+}
+
+.innerview {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    background-color: brown;
+    border: inherit;
+}

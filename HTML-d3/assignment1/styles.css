@@ -1,0 +1,41 @@
+body {
+    color: darkred;
+}
+
+.outerview {
+    background-color: aqua;
+    padding: 30px;
+    border: 10px solid red;
+    border-radius: 10%;
+}
+
+#firstview {
+    height: 250px;
+    width: 250px;
+}
+
+#secondview {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 310px;
+    bottom: 15px;
+}
+
+#thirdview {
+    height: 170px;
+    width: 170px;
+    position: relative;
+    left: 575px;
+    bottom: 30px;
+}
+
+.innerview {
+    background-color: aquamarine;
+    border-radius: 10%;
+    padding: 10px;
+    position: relative;
+    left: 10px;
+    height: 80px;
+    width: 80px;
+}

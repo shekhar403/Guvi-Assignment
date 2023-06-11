@@ -1,0 +1,21 @@
+/* Priority = 1 */
+#id1 {
+    color: bisque;
+}
+/* Priority = 2 */
+.class1 {
+    color: blue;
+}
+/* priority = 3 */
+h1 {
+    color: aqua;
+}
+
+
+body {
+    background-color: aliceblue;
+}
+
+/* Priortiy */
+/* id > class > tag */
+/* inline > internal > external */
